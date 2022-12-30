@@ -1,5 +1,6 @@
 # Skyvǫllr ~ ᛋᚴᚤᚡᛟᛚᛚᚱ
-![[skyvollr.png|400]]
+
+<img src="/assets/Images/Worlds/skyvollr.png" width="400"/>
 
 *Translation: Cloudy Fields*
 

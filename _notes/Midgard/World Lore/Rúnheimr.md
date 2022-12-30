@@ -1,6 +1,6 @@
 # Rúnheimr ~ ᚱᚢᚾᚺᛖᛁᛗᚱ
 
-<img src="/assets/Images/Worlds/runheimr.png"/>
+<img src="/assets/Images/Worlds/runheimr.png" width="400"/>
 
 *Translation: Land of Mysteries*
 

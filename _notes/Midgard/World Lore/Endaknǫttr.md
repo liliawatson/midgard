@@ -1,5 +1,6 @@
 # Endaknǫttr ~ ᛖᚾᛞᚨᚴᚾᛟᛏᛏᚱ
-![[endaknottr.png|400]]
+
+<img src="/assets/Images/Worlds/endaknottr.png" width="400"/>
 
 *Translation: World's End*
 

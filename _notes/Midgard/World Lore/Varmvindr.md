@@ -1,5 +1,6 @@
 # Varmvindr ~ ᚡᚨᚱᛗᚡᛁᚾᛞᚱ
-![[varmvindr.png|400]]
+
+<img src="/assets/Images/Worlds/varmvindr.png" width="400"/>
 
 *Translation: Warm Breeze
 
