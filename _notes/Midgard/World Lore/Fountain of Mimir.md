@@ -1,0 +1,3 @@
+The [[Eternal Ash Tree]] has a root in the Mortal Realms as well, in the Fountain of Mimir in [[Jotunheim]]. This is the well of wisdom, and it belongs to [[Mimir]]. Everyday, he drinks from this well by using his drinking horn, Gjallarhorn, which, at [[Ragnarok]], [[Heimdall]]will blow to signify the end of times.
+
+Mimir does not keep the well for himself, he does allow others to drink from it, but for a heavy price. [[Odin]] once drank from the well of wisdom, but he had to sacrifice his right eye as payment.

@@ -1,0 +1,1 @@
+Vanaheim is situated to the west of [[Asgard]], and is the home of the Vanir tribe of deities, who are associated with fertility and nature, more so than the Aesir. It is the home of [[Njord]], [[Freya]], and [[Freyr]]. Not much is known about this realm, due to the secrecy of the Vanir.
