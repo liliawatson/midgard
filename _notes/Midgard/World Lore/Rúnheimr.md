@@ -1,6 +1,6 @@
 # Rúnheimr ~ ᚱᚢᚾᚺᛖᛁᛗᚱ
 
-<img src="/_notes/Midgard/Images/Worlds/runheimr.png"/>
+<img src="/assets/Images/Worlds/runheimr.png"/>
 
 *Translation: Land of Mysteries*
 
