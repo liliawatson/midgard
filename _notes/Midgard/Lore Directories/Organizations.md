@@ -1,4 +1,4 @@
-> [!ERROR] Religious Groups
+### Religious Groups
 [[Odin's Watchers]]
 [[Thor's Warriors]]
 [[Freya's Champions]]
@@ -6,7 +6,7 @@
 
 ***
 
-> [!ERROR] Political Groups
+### Political Groups
 [[The Democratic Alliance]]
 [[Tiefling Anti-Prejudice Organization]]
 [[Draconic Historical Society]]
@@ -14,14 +14,14 @@
 
 ***
 
-> [!ERROR] Educational Groups
+### Educational Groups
 [[The Danzleikr Bard College]]
 [[Kunnigr Academy]]
 [[Vægher Adventuring School]]
 
 ***
 
-> [!ERROR] Cults
+### Cults
 [[Valhalla's Heralds]]
 [[Prophets of the End]]
 [[Ragnarok's Chosen]]

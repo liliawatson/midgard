@@ -1,4 +1,4 @@
-> [!ERROR] Yggdrasil
+### Yggdrasil
 [[Eternal Ash Tree]]
 [[Well of Urd]]
 [[Fountain of Mimir]]
@@ -7,7 +7,7 @@
 
 ***
 
-> [!ERROR] Realm of the Gods
+### Realm of the Gods
 [[Asgard]]
 [[Vanaheim]]
 [[Alfheim]]
@@ -15,7 +15,7 @@
 
 ***
 
-> [!ERROR] Mortal Realms
+### Mortal Realms
 [[World Lore/Midgard]]
 [[Jotunheim]]
 [[Nidavellir]]
@@ -24,7 +24,7 @@
 
 ***
 
-> [!ERROR] Realm of the Dead
+### Realm of the Dead
 [[Niflheim]]
 [[Helheim]]
 [[Muspell]]

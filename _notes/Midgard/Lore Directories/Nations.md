@@ -1,4 +1,4 @@
-> [!ERROR] Floating Continent 
+### Floating Continent 
 [[Rúnheimr]]
 [[Fljótabiǫð]]
 [[Skyvǫllr]]
@@ -7,7 +7,7 @@
 
 ***
 
-> [!ERROR] Mainland
+### Mainland
 [[Keldavegr]]
 [[Hjǫrrgarðr]]
 [[Bitrland]]
@@ -18,15 +18,15 @@
 
 ***
 
-> [!ERROR] Wasteland
+### Wasteland
 [[Blakkrvegr]]
 [[Skrípivǫllr]]
 [[Drekkaland]]
 
 ***
 
-> [!ERROR] Other Nations
-> [[Varmvindr]]
+### Other Nations
+[[Varmvindr]]
 
 ***
 

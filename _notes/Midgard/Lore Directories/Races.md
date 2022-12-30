@@ -1,4 +1,4 @@
-> [!ERROR] "Civil" Races
+### "Civil" Races
 [[Human]]
 [[Dwarf]]
 [[Elf]]
@@ -20,7 +20,7 @@
 
 ***
 
-> [!ERROR] "Hostile" Races
+### "Hostile" Races
 [[Goblin]]
 [[Hobgoblin]]
 [[Orc]]
