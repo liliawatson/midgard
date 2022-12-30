@@ -1,5 +1,6 @@
 # Rúnheimr ~ ᚱᚢᚾᚺᛖᛁᛗᚱ
-![[runheimr.png|400]]
+
+<img src="/_notes/Midgard/Images/Worlds/runheimr.png"/>
 
 *Translation: Land of Mysteries*
 
@@ -9,4 +10,5 @@ The most common races are fire genasi, elves, firbolgs, and tieflings.
 
 Capital: Hárrdys (ᚺᚨᚱᚱᛞᚤᛋ)
 *Translation: Odin's Grave*
+
 Fabled to become Odin's final resting place after Ragnarok, the heart of Hárrdys is an ancient statue of Yggdrasil, with Odin swinging from its branches. Its inhabitants have created long metal poles placed high above their structures to draw the lightning down and use its energy for magical purposes. There are roads leading outwards to other, smaller towns, but due to the dangerous mist that cloaks the nation, travel is rare here. Hárrdys is full of welcoming yet secretive people, not opposed to outsiders and quite hospitable, but fiercely protective of their culture and magical techniques. 

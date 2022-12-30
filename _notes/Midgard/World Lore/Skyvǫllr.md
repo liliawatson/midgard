@@ -9,4 +9,5 @@ The most common races are water genasi, humans, gnomes, and harengon.
 
 Capital: Léreptblóm (ᛚᛖᚱᛖᛈᛏᛒᛚᛟᛗ)
 *Translation: Blanket of Flowers*
+
 Léreptblóm is a quiet village most well known for its aesthetic beauty, with flowers on every windowsill and little gardens on the side of every road. Its inhabitants are well versed in natural healing remedies, another claim to fame of the city. Many a family has brought an ailing lost cause to the steps of one of the healers this city houses, and left with a curious remedy that takes away every last ounce of the sickness. Léreptblóm is surrounded by several large fields of stunning flowers, "blanketing" the city and giving it its name.
