@@ -1,5 +1,3 @@
---- title: Master Directory ---
-
 #### [[Yggdrasil]] (Unfinished)
 
 ***
