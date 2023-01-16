@@ -2,7 +2,7 @@
 
 <img src="/assets/Images/Worlds/varmvindr.png" width="400"/>
 
-*Translation: Warm Breeze
+*Translation: Warm Breeze*
 
 A tropical island with clear blue beaches and lavender sands, a place warm year round with mild winters. There's heavy vegetation, lush jungles with clearings where small settlements can be found, and larger maritime villages on the shores of its beaches. 
 

@@ -8,7 +8,7 @@ permalink: /
 # Fate has brought you here.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Your journey begins here. <br><br>
+  Your journey begins now. <br><br>
   <span style="font-weight: bold">[[Master Directory]]</span>
 </p>
 

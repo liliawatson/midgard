@@ -1,5 +1,6 @@
 # Keldavegr ~ ᚴᛖᛚᛞᚨᚡᛖᚷᚱ
-![[keldavegr.png|400]]
+
+<img src="/assets/Images/Worlds/keldavegr.png" width="400"/>
 
 *Translation: The Fountain Spring*
 
@@ -9,4 +10,5 @@ The most common races are
 
 Capital: Bjarghringr (ᛒᛃᚨᚱᚷᚺᚱᛁᚾᚷᚱ)
 *Translation: Ring of Cliffs*
+
 Description

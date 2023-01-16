@@ -1,4 +1,4 @@
-## ᚱᚢᚾᚺᛖᛁᛗᚱ
+	## ᚱᚢᚾᚺᛖᛁᛗᚱ
 Rúnheimr -> *ROON-hi-mir* 
 (Mysteries + Land) 
 -	ᚺᚨᚱᚱᛞᚤᛋ / Hárrdys -> *HARR-diss* (odin + grave)
@@ -31,7 +31,7 @@ Keldavegr -> *KEL-da-VEY-gir*
 -	ᛒᛃᚨᚱᚷᚺᚱᛁᚾᚷᚱ / Bjarghringr -> *BAR-grin-gir* / (cliff + ring)
 
 ## ᚺᛃᛟᚱᚱᚷᚨᚱᛏᚺᚱ
-Hjǫrrgarðr -> *hi-YOR-ga-rawr*
+Hjǫrrgarðr -> *hi-YOR-garth-ar*
 (Sword + Dwelling)
 -	ᚺᚱᛟᛏᛏᛁᛋᛏᛖᛁᚾᚾ / Hrottisteinn -> *hi-ROH-ti-stein* / (volsung sword + jewel)
 
