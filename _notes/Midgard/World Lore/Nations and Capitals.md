@@ -1,4 +1,4 @@
-	## ᚱᚢᚾᚺᛖᛁᛗᚱ
+## ᚱᚢᚾᚺᛖᛁᛗᚱ
 Rúnheimr -> *ROON-hi-mir* 
 (Mysteries + Land) 
 -	ᚺᚨᚱᚱᛞᚤᛋ / Hárrdys -> *HARR-diss* (odin + grave)
