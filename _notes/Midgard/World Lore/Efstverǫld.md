@@ -1,6 +1,6 @@
 # Efstverǫld ~ ᛖᚠᛋᛏᚡᛖᚱᛟᛚᛞ
 
-<img src="/assets/Images/Worlds/efstverold.png" width="400"/>
+<img src="/assets/Images/Worlds/efstverold.png" width="400" height="400"/>
 
 *Translation: The Highest World*
 

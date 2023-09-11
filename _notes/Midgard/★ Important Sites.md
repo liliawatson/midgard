@@ -14,7 +14,7 @@ Rune Translator:
 https://lingojam.com/RunicTranslator
 
 Nations AI Art:
-https://picsart.com/create/editor?category=photos&app=t2i
+https://imgcreator.zmo.ai/ai-generator
 
 Races: 
 https://www.dndbeyond.com/races

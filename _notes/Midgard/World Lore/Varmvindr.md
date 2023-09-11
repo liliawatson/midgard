@@ -1,6 +1,6 @@
 # Varmvindr ~ ᚡᚨᚱᛗᚡᛁᚾᛞᚱ
 
-<img src="/assets/Images/Worlds/varmvindr.png" width="400"/>
+<img src="/assets/Images/Worlds/varmvindr.png" width="400" height="400"/>
 
 *Translation: Warm Breeze*
 

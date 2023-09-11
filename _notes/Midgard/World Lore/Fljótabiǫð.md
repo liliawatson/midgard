@@ -1,6 +1,6 @@
 # Fljótabiǫð ~ ᚠᛚᛃᛟᛏᚨᛒᛁᛟᛏᚺ
 
-<img src="/assets/Images/Worlds/fljotabioth.png" width="400"/>
+<img src="/assets/Images/Worlds/fljotabioth.png" width="400" height="400"/>
 
 *Translation: The Floating Land*
 
