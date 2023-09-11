@@ -25,5 +25,5 @@
 [[Valhalla's Heralds]]
 [[Prophets of the End]]
 [[Ragnarok's Chosen]]
-[[Yuan-ti Worshippers ]]
+[[Yuan-ti Worshippers]]
 

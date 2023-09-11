@@ -16,7 +16,7 @@
 ***
 
 ### Mortal Realms
-[[World Lore/Midgard]]
+[[Midgard]]
 [[Jotunheim]]
 [[Nidavellir]]
 [[Svartalfheim]]
