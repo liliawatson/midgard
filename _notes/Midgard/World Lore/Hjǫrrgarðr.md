@@ -8,7 +8,8 @@ Description
 
 The most common races are 
 
-Capital: Hrottisteinn (ᚺᚱᛟᛏᛏᛁᛋᛏᛖᛁᚾᚾ)
+### Capital: Hrottisteinn (ᚺᚱᛟᛏᛏᛁᛋᛏᛖᛁᚾᚾ)
+
 *Translation: Jeweled Blade*
 
 Description

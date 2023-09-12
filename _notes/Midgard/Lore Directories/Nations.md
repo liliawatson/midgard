@@ -1,27 +1,39 @@
 ### Floating Continent 
-[[Rúnheimr]] <br>
-[[Fljótabiǫð]] <br>
-[[Skyvǫllr]] <br>
-[[Efstverǫld]] <br>
+[[Rúnheimr]] 
+
+[[Fljótabiǫð]] 
+
+[[Skyvǫllr]] 
+
+[[Efstverǫld]] 
+
 [[Endaknǫttr]]
 
 ***
 
 ### Mainland
-[[Keldavegr]] <br>
-[[Hjǫrrgarðr]] <br>
-[[Bitrland]] <br>
-[[Snærfold]] <br>
-[[Skógrheimr]] <br>
-[[Líttheimr]] <br>
-[[Djúprbjǫð]] <br>
+[[Keldavegr]] 
+
+[[Hjǫrrgarðr]] 
+
+[[Bitrland]] 
+
+[[Snærfold]] 
+
+[[Skógrheimr]] 
+
+[[Líttheimr]] 
+
+[[Djúprbjǫð]] 
 
 ***
 
 ### Wasteland
-[[Blakkrvegr]] <br>
-[[Skrípivǫllr]] <br>
-[[Drekkaland]] <br>
+[[Blakkrvegr]] 
+
+[[Skrípivǫllr]] 
+
+[[Drekkaland]] 
 
 ***
 

@@ -8,7 +8,8 @@ Towering above the rest of the Floating Continent is Efstverǫld, a mountainous 
 
 The most common races are air genasi, kenku, dwarves, and (formerly) dragonborn.
 
-Capital: Hatignæfa (ᚺᚨᛏᛁᚷᚾᚨᚠᚨ)
+### Capital: Hatignæfa (ᚺᚨᛏᛁᚷᚾᚨᚠᚨ)
+
 *Translation: Tower of the Moon-Eater*
 
 A massive clock tower, with gears and spinning hands, stands at the top of Mount Hati, across the way from Mount Skoll. The twin mountains, named after the twin wolves, sandwich in the town of Hatignæfa, a city full of gruff artisans all squirrelled away in elaborate hideyholes working on their next great invention. Hatignæfa is powered by a mixture of magic and steam, but no one knows where the clock tower gets its power source from. It ticks away, day after day, all by itself with no keeper... many say it's actually a timer, but what it's counting down to, no one knows.
