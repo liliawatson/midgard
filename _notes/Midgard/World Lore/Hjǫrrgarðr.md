@@ -1,6 +1,6 @@
 # Hjǫrrgarðr ~ ᚺᛃᛟᚱᚱᚷᚨᚱᛏᚺᚱ
 
-<img src="/assets/Images/Worlds/hjorrgarthr.png" width="400"/>
+<img src="/assets/Images/Worlds/hjorrgarthr.png" width="400" height="400"/>
 
 *Translation: House of Swords*
 

@@ -1,6 +1,6 @@
 # Keldavegr ~ ᚴᛖᛚᛞᚨᚡᛖᚷᚱ
 
-<img src="/assets/Images/Worlds/keldavegr.png" width="400"/>
+<img src="/assets/Images/Worlds/keldavegr.png" width="400" height="400"/>
 
 *Translation: The Fountain Spring*
 
