@@ -16,6 +16,9 @@ https://lingojam.com/RunicTranslator
 Nations AI Art:
 https://imgcreator.zmo.ai/ai-generator
 
+Photoshop Dupe:
+https://www.photopea.com/
+
 Races: 
 https://www.dndbeyond.com/races
 
